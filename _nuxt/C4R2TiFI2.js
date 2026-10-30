@@ -1,0 +1,1 @@
+var t={left:32,top:467,width:16,height:16,body:'<g fill="none"><path transform="matrix(1 0 0 -1 0 950)" d="M40 481C36.6862 481 34 478.314 34 475C34 471.686 36.6862 469 40 469C43.3138 469 46 471.686 46 475C46 478.314 43.3138 481 40 481ZM39.4 474.4V478H40.6V474.4H39.4ZM39.4 472V473.2H40.6V472H39.4Z" fill="currentColor"/></g>'};export{t as default};

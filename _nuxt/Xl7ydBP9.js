@@ -1,0 +1,1 @@
+var f={width:14,height:14,body:'<g fill="none"><ellipse cx="5.957" cy="6.5423" fill="#f5f5f5" fill-opacity=".5" stroke="#f5f5f5" stroke-width="1.2" rx="4.957" ry="4.9568"/><path stroke="#f5f5f5" stroke-width="1.2" d="m9.2617 9.8471 3.7388 3.7387"/></g>'};export{f as default};

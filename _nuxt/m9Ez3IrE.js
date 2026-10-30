@@ -1,0 +1,1 @@
+var r={width:16,height:16,body:'<g fill="none"><circle cx="8" cy="8" r="6.4" stroke="currentColor" stroke-width="1.2"/>\n<path d="M8 5V11M5 8H11" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></g>'};export{r as default};

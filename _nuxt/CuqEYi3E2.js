@@ -1,0 +1,1 @@
+var e={left:1566,top:13,width:14,height:14,body:'<g fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1575.88 15H1577.41L1574.06 19.236L1578 25H1574.91L1572.5 21.504L1569.73 25H1568.2L1571.78 20.4696L1568 15H1571.16L1573.35 18.1955L1575.88 15ZM1575.34 23.9866H1576.19L1570.7 15.9639H1569.79L1575.34 23.9866Z" fill="currentColor"/></g>'};export{e as default};

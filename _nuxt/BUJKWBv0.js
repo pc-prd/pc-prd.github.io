@@ -1,0 +1,1 @@
+var h={width:200,height:200,body:'<path fill="currentColor" d="M38 88h22v46H38zM47 79h4v62h-4zM69 63h22v49H69zM78 52h4v71h-4zM102 73h20v37h-20zM110 63h4v47h-4zM133 47h22v45h-22zM142 38h4v54h-4z"/><path fill="currentColor" fill-rule="evenodd" d="M136 99a27.5 27.5 0 1 0 0 55 27.5 27.5 0 1 0 0-55zM136 115.5L147 126.5 136 137.5 125 126.5z"/>'};export{h as default};

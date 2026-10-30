@@ -1,0 +1,1 @@
+var t={width:12,height:12,body:'<g fill="none"><circle cx="4.7308" cy="4.7308" r="4.1307" stroke="#707275" stroke-width="1.2"/><path fill="#707275" d="m7.4849 7.4846-.4243.4243 3.1156 3.1156.4242-.4243.4243-.4243-3.1156-3.1156z"/></g>'};export{t as default};

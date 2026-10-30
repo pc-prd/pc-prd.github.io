@@ -1,0 +1,1 @@
+import{d as a,l as r}from"./DiBV_SjE.js";import{k as e}from"./6LbxYvOj.js";import{t as s}from"./DZ8S0lCE2.js";var m=e({__name:"index",setup:e=>(s({middleware:r(r=>a({path:"/launch",query:r.query,hash:r.hash},{replace:!0}))}),()=>{})});export{m as default};
